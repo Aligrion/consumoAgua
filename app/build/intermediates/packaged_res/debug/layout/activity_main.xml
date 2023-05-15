@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Progress bar and percentage -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/percentageTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_toEndOf="@id/percentageTextView"
+            android:max="100"/>
+
+
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/dailyGoalTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meta diária: 2000 ml" />
+
+    <!-- Drink amount field and register button -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/drinkAmountEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Digite a quantidade em ml"/>
+
+        <Button
+            android:id="@+id/registerDrinkButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/drinkAmountEditText"
+            android:layout_alignParentEnd="true"
+            android:text="Registrar"/>
+
+    </RelativeLayout>
+
+    <!-- Drink list -->
+    <ListView
+        android:id="@+id/drinksListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp"/>
+
+</LinearLayout>

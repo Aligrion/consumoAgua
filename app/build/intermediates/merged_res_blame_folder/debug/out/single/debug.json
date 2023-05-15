@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\drawable_aguaa_background.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\drawable\\aguaa_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_aguaa_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\aguaa_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_aguaa_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\aguaa_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_aguaa.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\aguaa.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_aguaa_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\aguaa_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-anydpi-v26_aguaa.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-anydpi-v26\\aguaa.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_agua_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\agua_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_aguaa.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\aguaa.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_aguaa.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\aguaa.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-anydpi-v26_aguaa_round.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-anydpi-v26\\aguaa_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_aguaa_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\aguaa_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_agua_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\agua_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_aguaa_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\aguaa_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_agua_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\agua_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.ryan.consumogua.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.ryan.consumogua.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_aguaa_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\aguaa_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_aguaa_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\aguaa_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_aguaa_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\aguaa_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_agua.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\agua.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_agua_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\agua_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_aguaa.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\aguaa.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_agua.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\agua.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_aguaa_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\aguaa_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_agua_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\agua_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_agua_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\agua_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_aguaa.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\aguaa.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_agua_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\agua_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-anydpi-v26_agua.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-anydpi-v26\\agua.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_agua_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\agua_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\drawable_agua_background.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\drawable\\agua_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_agua_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\agua_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_agua.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\agua.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-mdpi_agua.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-mdpi\\agua.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_agua.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\agua.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-anydpi-v26_agua_round.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-anydpi-v26\\agua_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-hdpi_aguaa_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-hdpi\\aguaa_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxxhdpi_agua_foreground.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxxhdpi\\agua_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aligr\\.gradle\\daemon\\7.5\\com.ryan.consumogua.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]
